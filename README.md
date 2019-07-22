@@ -45,7 +45,9 @@ ssh root@(vsphere-ipaddress)
 ## Install TP-Link UE300 Driver on VMware vSphere Server
 Last step, install the driver. Here are the steps to do that properly :
 
-* Transfer the driver file (**r8152-2.06.0-4_esxi65.vib**) to the vSphere server with WinSCP or directly SCP command fromt terminal. **Note** : Transfer the driver file to **/var/log/vmware/** directory.
+* Transfer the driver file (**r8152-2.06.0-4_esxi65.vib**) to the vSphere server with WinSCP or directly SCP command fromt terminal. 
+
+**Note** : Transfer the driver file to **/var/log/vmware/** directory.
 ```
 scp r8152-2.06.0-4_esxi65.vib root@(vsphere-ipaddress):/var/log/vmware/
 ```
