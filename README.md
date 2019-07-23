@@ -10,7 +10,7 @@ There is some step we need to be done before install the **TP-Link UE300**, here
 1. **Install TP-Link UE300 Driver on VMware vSphere Server**
 
 ## Buy a TP-Link UE300
-First thing we need to to do, of course buy the TP-Link device which will be used for vSphere server additional adapter. The full name of the product is [TP-Link USB 3.0 to Gigabit Ethernet Network Adapter UE300](https://www.tp-link.com/id/home-networking/computer-accessory/ue300/), which any of you can find in any local computer store near your place or maybe in one of the online store. And it just need around $14 from your pocket.
+First thing we need to do, of course buy the TP-Link device which will be used for vSphere server additional adapter. The full name of the product is [TP-Link USB 3.0 to Gigabit Ethernet Network Adapter UE300](https://www.tp-link.com/id/home-networking/computer-accessory/ue300/), which any of you can find in any local computer store near your place or maybe in one of the online store. And it just need around $14 from your pocket.
 
 For image of the device, you can inspect file **tp-link-ue300.jpg** in this repository.
 
